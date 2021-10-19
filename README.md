@@ -20,7 +20,7 @@
         <div class=part1>
         				
 <h1>Profile photo</h2>
-          <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+          <script src="https://ajax
 <div id="profile-container">
    <image id="profileImage" src="http://lorempixel.com/100/100" />
 </div>
