@@ -18,15 +18,15 @@
     <div class="main-body">
 
         <div class=part1>
-        				
-<h1>Profile photo</h2>
-          <script src="https://ajax
-<div id="profile-container">
-   <image id="profileImage" src="http://lorempixel.com/100/100" />
-</div>
-<input id="imageUpload" type="file" 
-       name="profile_photo" placeholder="Photo" required="" capture>
- 
+ 				
+
+         
+
+   
+
+
+
+
 
             <div class="pd">
             <h2><u>Personal Details</u></h2>
