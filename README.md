@@ -1,4 +1,4 @@
-# -bio<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 				<meta charset="UTF-8">
@@ -19,7 +19,13 @@
 
         <div class=part1>
         				
-
+<h1>Profile photo</h2>
+          <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<div id="profile-container">
+   <image id="profileImage" src="http://lorempixel.com/100/100" />
+</div>
+<input id="imageUpload" type="file" 
+       name="profile_photo" placeholder="Photo" required="" capture>
  
 
             <div class="pd">
